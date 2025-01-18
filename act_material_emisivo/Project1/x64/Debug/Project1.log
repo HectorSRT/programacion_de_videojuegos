@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\programacion_videojuegos\act_material_emisivo\Project1\Texture.h(62,28): warning C4101: 'nrChannels': variable local sin referencia
+  (compilando archivo de origen "main.cpp")
+  
+D:\programacion_videojuegos\act_material_emisivo\Project1\main.cpp(172,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\programacion_videojuegos\act_material_emisivo\Project1\main.cpp(173,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\programacion_videojuegos\act_material_emisivo\Project1\main.cpp(192,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\programacion_videojuegos\act_material_emisivo\Project1\main.cpp(198,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\programacion_videojuegos\act_material_emisivo\Project1\main.cpp(212,41): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Project1.vcxproj -> D:\programacion_videojuegos\act_material_emisivo\x64\Debug\Project1.exe
